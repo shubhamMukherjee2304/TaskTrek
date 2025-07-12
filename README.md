@@ -1,4 +1,4 @@
-<img width="1890" height="917" alt="image" src="https://github.com/user-attachments/assets/6fe08190-d054-49d6-b929-a341de8839c0" />
+
 
 # 🚀 TaskTrek – AI-Powered Project Collaboration & Planning Platform
 
